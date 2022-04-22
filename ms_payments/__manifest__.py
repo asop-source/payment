@@ -2,12 +2,12 @@
 
 {
     'name': 'Mas Payment',
-    'version': '14.0.2.0.0',
+    'version': '13.0.',
     'summary': 'Handle Multiple Payment',
     'author': 'asop-source',
     'company': 'Consultan Asia',
     'website': 'https://www.asop.com',
-    'depends': ['base'],
+    'depends': ['base','account'],
     'category': 'Accounting',
     'maintainer': 'Asop-Source',
     'data': [
