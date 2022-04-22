@@ -17,7 +17,7 @@
 
     ],
     'images': ['static/description/banner.png'],
-    'license': 'AGPL-3',
+    'license': 'APSW-1A',
 }
 
 
