@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_ms_payments,ms_payments,model_ms_payments,base.group_user,1,1,1,1
+access_ms_payments_line,ms_payments_line,model_ms_payments_line,base.group_user,1,1,1,1
